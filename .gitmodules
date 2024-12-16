@@ -1,0 +1,3 @@
+[submodule "example/UD_Kyrgyz-TueCL"]
+	path = example/UD_Kyrgyz-TueCL
+	url = git@github.com:UniversalDependencies/UD_Kyrgyz-TueCL.git
