@@ -1,4 +1,4 @@
-# Simple Syntax Transfer Based on the Treebank Translation Method
+# Simple Syntactic Transfer Based on the Treebank Translation Method
 
 ## Intended use 
 
@@ -11,8 +11,7 @@ Given
 
 generate a dependency tree for the sentence in the target language.
 
-Clearly, it's far from perfect, but may still be useful 
-to speed up the manual treebank annotation. Please see the paper for more details.
+Clearly, it's far from perfect, but may still be useful to speed up the manual treebank annotation. Please see the paper for more details.
 
 ## Example
 
