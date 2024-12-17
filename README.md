@@ -15,15 +15,17 @@ Clearly, it's far from perfect, but may still be useful to speed up the manual t
 
 ## Example
 
-We have provided some bindings to the popular libraries in [\tratreetra\models.py]; the appropriate
+We have provided some bindings to the popular libraries in [tratreetra/models.py](tratreetra/models.py); the appropriate
 versions of these libraries should be installed, please consult the respective docstrings.
 
-The example code reproduces one of the results from the paper:
+The example code in [example/example.py](example/example.py) reproduces one of the results from the paper:
 
 * `Stanza-IMST-charlm`
 * `SimAlign-XLMR`
 * `apertium-kir` (without morphological disambiguation)
 * Translation via `ChatGPT4o`
+
+Please see more details in the [example/README](example/README.md).
 
 ## How to cite
 
