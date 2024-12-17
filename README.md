@@ -13,6 +13,8 @@ generate a dependency tree for the sentence in the target language.
 
 Clearly, it's far from perfect, but may still be useful to speed up the manual treebank annotation. Please see the paper for more details.
 
+**UPD:** Installable via PIP: https://pypi.org/project/tratreetra/
+
 ## Example
 
 We have provided some bindings to the popular libraries in [tratreetra/models.py](tratreetra/models.py); the appropriate
@@ -47,6 +49,5 @@ Meanwhile, if you use our tool, we'll be grateful if you cite it as follows:
 
 * Thoughtful approach to data structures
 * Profile the code
-* Upload to pypi
 * Tests
 * Redesign logging here and in apertium2ud
