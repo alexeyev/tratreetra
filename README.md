@@ -29,11 +29,12 @@ The example code in [example/example.py](example/example.py) reproduces one of t
 
 Please see more details in the [example/README](example/README.md).
 
-## How to cite
+## The paper
 
-The paper is still in print, the preprint on arXiv will be made available soon.
+The paper is still in print, the preprint on arXiv [has been published](https://arxiv.org/abs/2412.13146). 
+Russian version of the paper in the Russian version of the journal (Zapiski Nauchnyh Seminarov POMI) is [also available now](http://www.pdmi.ras.ru/znsl/2024/v540/abs252.html).
 
-Meanwhile, if you use our tool, we'll be grateful if you cite it as follows:
+If you use our tool, we'll be grateful if you cite it as follows:
 
 ```bibtex
 @article{atkn2025syntax,
