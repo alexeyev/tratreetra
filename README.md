@@ -32,7 +32,7 @@ Please see more details in the [example/README](example/README.md).
 ## The paper
 
 The paper is still in print, the preprint on arXiv [has been published](https://arxiv.org/abs/2412.13146). 
-Russian version of the paper in the Russian version of the journal (Zapiski Nauchnyh Seminarov POMI) is [also available now](http://www.pdmi.ras.ru/znsl/2024/v540/abs252.html).
+Russian version of the paper in the original version of the journal (Zapiski Nauchnyh Seminarov POMI) is [also available now](http://www.pdmi.ras.ru/znsl/2024/v540/abs252.html).
 
 If you use our tool, we'll be grateful if you cite it as follows:
 
