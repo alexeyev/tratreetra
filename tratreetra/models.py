@@ -9,7 +9,7 @@
         spacy_udpipe>=1.0.0
         apertium>=0.2.4
         apertium-streamparser>=5.0.2
-        apertium2ud>=0.0.7
+        apertium2ud>=0.0.8
 """
 import functools
 import logging
