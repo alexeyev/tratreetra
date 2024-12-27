@@ -51,4 +51,4 @@ If you use our tool, we'll be grateful if you cite it as follows:
 * Thoughtful approach to data structures
 * Profile the code
 * Tests
-* Redesign logging here and in apertium2ud
+* Redesign logging 
